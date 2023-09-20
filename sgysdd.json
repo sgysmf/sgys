@@ -12,7 +12,7 @@
     },
     {
       "key": "js豆瓣备用",
-      "name": "🍥┃豆瓣备用┃付费获取接口都是骗人的,勿信视频中广告🍥",
+      "name": "🍥┃豆瓣备用┃QQ交流群：714865786🍥",
       "type": 3,
       "api": "./lib/doubanbf.js",
       "searchable": 1,
@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./tvbox/token.txt"
     },
     {
       "key": "XYQaL_4kHDR",
