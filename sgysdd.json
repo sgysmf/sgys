@@ -1390,7 +1390,7 @@
 "lives": [
     {
       "name": "胜哥影视",
-      "url": "https://bitbucket.org/sgysdd/dszb/src/dbe803f37681f5e7f426ea1d6a1289e9a47f22c0/v.txt",
+      "url": "https://bitbucket.org/sgysd/ysdd/raw/6ad3ba1390fedeba1adaa56af6785585b11f632c/lib/live.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1403,7 +1403,7 @@
           "name": "live",
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3NneXNkZC9kc3piL3NyYy9kYmU4MDNmMzc2ODFmNWU3ZjQyNmVhMWQ2YTEyODllOWE0N2YyMmMwL3YudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3NneXNkL3lzZGQvcmF3LzZhZDNiYTEzOTBmZWRlYmExYWRhYTU2YWY2Nzg1NTg1YjExZjYzMmMvbGliL2xpdmUudHh0"
           ]
         }
       ]
@@ -1875,5 +1875,5 @@
   ],
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "warningText": "接口免费整理维护，请勿付费购买",
-  "spider": "./sgysdd.jar;md5;aHR0cHM6Ly9iaXRidWNrZXQub3JnL3NneXNkZC9kc3piL3NyYy9kYmU4MDNmMzc2ODFmNWU3ZjQyNmVhMWQ2YTEyODllOWE0N2YyMmMwL3YudHh0"
+  "spider": "./sgysdd.jar;md5;aHR0cHM6Ly9iaXRidWNrZXQub3JnL3NneXNkL3lzZGQvcmF3LzZhZDNiYTEzOTBmZWRlYmExYWRhYTU2YWY2Nzg1NTg1YjExZjYzMmMvbGliL2xpdmUudHh0"
 }
