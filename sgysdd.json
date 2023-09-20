@@ -4,11 +4,11 @@
       "key": "js豆瓣",
       "name": "🍥┃豆瓣┃公众号:胜哥网络随笔🍥",
       "type": 3,
-      "api": "./lib/douban.js",
+      "api": "./lib/doubanbf.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/doubanbf.js"
+      "ext": "./lib/douban.js"
     },
     {
       "key": "js豆瓣备用",
