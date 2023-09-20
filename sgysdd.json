@@ -18,7 +18,7 @@
       "key": "js豆瓣备用",
       "name": "🍥┃豆瓣备用┃QQ交流群：714865786🍥",
       "type": 3,
-      "api": "./lib/doubanbf.js",
+      "api": "csp_DouDou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
