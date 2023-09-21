@@ -851,8 +851,8 @@
       "key": "88js",
       "name": "⚽┃88┃看球",
       "type": 3,
-      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
-      "ext": "https://download.kstore.space/download/5109/88%E7%9C%8B%E7%90%83.js",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -865,8 +865,8 @@
       "key": "csp_310直播",
       "name": "⚽┃310┃看球",
       "type": 3,
-      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
-      "ext": "https://download.kstore.space/download/5109/310%E7%9B%B4%E6%92%AD.js",
+       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -889,7 +889,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://download.kstore.space/download/5109/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"
     },
  
 
@@ -906,8 +906,8 @@
       "key": "酷奇js",
       "name": "🎤┃酷奇┃MV",
       "type": 3,
-      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
-      "ext": "https://download.kstore.space/download/5109/%E9%85%B7%E5%A5%87MV.js",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -920,8 +920,8 @@
       "key": "虎牙直播js",
       "name": "🐯┃虎牙┃直播",
       "type": 3,
-      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
-      "ext": "https://download.kstore.space/download/5109/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
+       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -934,8 +934,8 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟┃斗鱼┃直播",
       "type": 3,
-      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
-      "ext": "https://download.kstore.space/download/5109/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
+       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -969,8 +969,8 @@
       "key": "有声小说js",
       "name": "🎧┃有声┃小说",
       "type": 3,
-      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
-      "ext": "https://download.kstore.space/download/5109/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
+       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -1024,8 +1024,8 @@
       "key": "dr_兔小贝",
       "name": "📚┃儿童┃启蒙",
       "type": 3,
-      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
-      "ext": "https://download.kstore.space/download/5109/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
