@@ -807,16 +807,7 @@
       "filterable": 1
     },
 
-     {
-      "key": "csp_Dm84",
-      "name": "🚌┃动漫┃巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    
+   
     {
       "key": "去看动漫",
       "name": "🎊┃去看┃动漫",
@@ -842,7 +833,7 @@
       "name": "⚽┃88┃看球",
       "type": 3,
       "api": "./lib/drpy1.min.js",
-      "ext": "./lib/88看球.js",
+      "ext": "https://download.kstore.space/download/5109/88%E7%9C%8B%E7%90%83.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -856,7 +847,7 @@
       "name": "⚽┃310┃看球",
       "type": 3,
       "api": "./lib/drpy1.min.js",
-      "ext": "./lib/310直播.js",
+      "ext": "https://download.kstore.space/download/5109/310%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -867,16 +858,6 @@
     },
 
 
-    {
-      "key": "csp_17看球",
-      "name": "⚽┃一起┃直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/看球.json"
-    },
     {
       "key": "csp_XPath_企鹅体育",
       "name": "🐧┃企鹅┃体育",
@@ -889,7 +870,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/企鹅直播.json"
+      "ext": "https://download.kstore.space/download/5109/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD.json"
     },
  
 
@@ -907,7 +888,7 @@
       "name": "🎤┃酷奇┃MV",
       "type": 3,
       "api": "./lib/drpy1.min.js",
-      "ext": "./lib/酷奇MV.js",
+      "ext": "https://download.kstore.space/download/5109/%E9%85%B7%E5%A5%87MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -921,7 +902,7 @@
       "name": "🐯┃虎牙┃直播",
       "type": 3,
       "api": "./lib/drpy1.min.js",
-      "ext": "./lib/虎牙直播.js",
+      "ext": "https://download.kstore.space/download/5109/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -935,7 +916,7 @@
       "name": "🐟┃斗鱼┃直播",
       "type": 3,
       "api": "./lib/drpy1.min.js",
-      "ext": "./lib/斗鱼直播.js",
+      "ext": "https://download.kstore.space/download/5109/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -991,7 +972,7 @@
       "name": "🎧┃有声┃小说",
       "type": 3,
       "api": "./lib/drpy1.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "ext": "https://download.kstore.space/download/5109/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -1046,7 +1027,7 @@
       "name": "📚┃儿童┃启蒙",
       "type": 3,
       "api": "./lib/drpy1.min.js",
-      "ext": "./lib/兔小贝.js",
+      "ext": "https://download.kstore.space/download/5109/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
