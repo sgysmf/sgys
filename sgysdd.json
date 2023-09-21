@@ -742,9 +742,9 @@
       "filterable": 0,
       "ext": "./lib/金眼影视.json"
     },
-    {
-          "key": "Bili",
-      "name": "🅱️哔哔┃合集",
+       {
+      "key": "Bili",
+      "name": "🅱️┃哔哔┃合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
