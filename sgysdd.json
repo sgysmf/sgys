@@ -745,7 +745,7 @@
 
     {
       "key": "csp_BBB",
-      "name": "🅱┃哔哩┃合集",
+      "name": "🅱️┃哔哩┃合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -755,7 +755,7 @@
     },
     {
       "key": "csp_戏曲",
-      "name": "🅱┃哔哩┃戏曲",
+      "name": "🅱️┃哔哩┃戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -765,7 +765,7 @@
     },
     {
       "key": "演唱会",
-      "name": "🅱┃哔哩┃音乐",
+      "name": "🅱️┃哔哩┃音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -773,63 +773,7 @@
       "jar":"./sgys.jar",
       "ext": "./lib/ych.json"
     },
-    {
-      "key": "js虎牙",
-      "name": "🐅┃虎牙┃直播",
-      "type": 3,
-      "api": "./lib/ddrpy2.m.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/虎牙直播.js"
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟┃斗鱼┃直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/斗鱼.json"
-    },
-    {
-      "key": "csp_XPath_企鹅体育",
-      "name": "🐧┃企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/企鹅直播.json"
-    },
-    {
-      "key": "dr_88看球",
-      "name": "🏀┃八八┃看球",
-      "type": 3,
-      "api": "./lib/ddrpy2.m.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/88看球.js"
-    },
-    {
-      "key": "drpy_js_JRKAN直播",
-      "name": "🏀┃JRS┃看球",
-      "type": 3,
-      "api": "./lib/ddrpy2.m.js",
-      "ext": "./lib/JRKAN直播.js"
-    },
-    {
-      "key": "csp_XYQBiu_聚合短视频",
-      "name": "📽️┃视频┃聚合",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/短视频.json"
-    },
+    
     {
       "key": "drpy_js_有声小说吧",
       "name": "📻┃有声┃小说",
@@ -927,7 +871,7 @@
     },
     {
       "key": "push_agent",
-      "name": "▶┃推送┃磁力",
+      "name": "📽️┃推送┃磁力",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
