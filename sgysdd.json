@@ -772,15 +772,20 @@
       "ext": "./lib/戏曲.json"
     },
     {
-      "key": "演唱会",
-      "name": "🅱️┃哔哩┃音乐",
+      "key": "Biliych",
+      "name": "🅱️哔哔┃歌曲",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
       "quickSearch": 0,
-      "jar":"./sgys.jar",
-      "ext": "./lib/ych.json"
+      "changeable": 0,
+      "ext": "./lib/biliych.json"
     },
+
 
     {
       "key": "儿童",
