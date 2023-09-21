@@ -1026,7 +1026,7 @@
       "key": "dr_兔小贝",
       "name": "📚┃儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "csp_Bili",
       "ext": "https://download.kstore.space/download/5109/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
