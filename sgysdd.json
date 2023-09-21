@@ -4,6 +4,9 @@
 //公众号：胜哥网络随笔
 //QQ交流群：714865786
 {
+  "wallpaper": "https://jianbian.chuqiuyu.tk",
+  "warningText": "接口免费整理维护，请勿付费购买",
+  "spider": "./sgysfd.jar;md5;aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvNTEwOS9saXZlLnR4dA==",
   "sites": [
     {
       "key": "js豆瓣",
@@ -1380,8 +1383,5 @@
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ],
-  "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "warningText": "接口免费整理维护，请勿付费购买",
-  "spider": "./sgysfd.jar;md5;aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvNTEwOS9saXZlLnR4dA=="
+  ]
 }
