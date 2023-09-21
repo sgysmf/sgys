@@ -357,16 +357,6 @@
     
     
     {
-      "key": "js_在线之家",
-      "name": "🏞︎‍┃超前┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/zxzj.js"
-    },
-    {
       "key": "csp_七夜",
       "name": "🔎┃阿里┃七夜",
       "type": 3,
@@ -549,16 +539,7 @@
       "filterable": 1,
       "ext": "./lib/nongmin.js"
     },
-    {
-      "key": "js_酷客",
-      "name": "😎┃酷客┃影院",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/莱米.js"
-    },
+    
     {
       "key": "js_bzys",
       "name": "🌋┃B站┃影视",
@@ -589,26 +570,7 @@
       "filterable": 1,
       "ext": "./lib/shiliu.json"
     },
-    {
-      "key": "js_czsapp",
-      "name": "🏭️┃厂长┃资源",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/czspp.js"
-    },
-    {
-      "key": "js_Lib",
-      "name": "🍲┃利奥┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/libvio.js"
-    },
+   
     {
       "key": "csp_MeiJu69",
       "name": "🗽┃六九┃美剧",
@@ -619,16 +581,7 @@
       "filterable": 1,
       "ext": "https://www.69mj.com/xgapp.php/v2/"
     },
-    {
-      "key": "js_ddys",
-      "name": "🐞┃低端┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/ddys.js"
-    },
+    
     {
       "key": "Kuaikan",
       "name": "🦋┃快看┃影视",
@@ -638,54 +591,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Dy1010",
-      "name": "💯┃双十┃影院",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "🦍┃二明┃影视",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "js_大师兄",
-      "name": "🐵┃师兄┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/大师兄影视.js"
-    },
-    {
-      "key": "js_电影先生",
-      "name": "🤵┃电影┃先生",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/电影先生.js"
-    },
-    {
-      "key": "drpy_js_乐猪",
-      "name": "🐷┃乐猪┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/乐猪TV.js"
-    },
+ 
     {
       "key": "csp_胖虎",
       "name": "🐯┃胖虎┃影视",
@@ -696,26 +602,8 @@
       "filterable": 1,
       "ext": "./lib/胖虎.json"
     },
-    {
-      "key": "js_小狗影院",
-      "name": "🐶┃小狗┃影院",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/小狗.js"
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "🌀┃蓝光┃影院",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.lgyy.vip"
-    },
+  
+  
     {
       "key": "csp_Vofl",
       "name": "🧿┃VoFl┃资源",
@@ -734,96 +622,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "js_酷云",
-      "name": "🍁┃七七┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/77.js"
-    },
-    {
-      "key": "js_企鹅",
-      "name": "🐧┃企鹅┃基地",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/qtv.js"
-    },
-    {
-      "key": "js_奇异",
-      "name": "🥝┃奇异┃大厂",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/qzys.js"
-    },
-    {
-      "key": "js_芒果",
-      "name": "🥭┃芒芒┃大厂",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/baimang.js"
-    },
-    {
-      "key": "js_优酷",
-      "name": "👑┃油库┃大厂",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/youku.js"
-    },
-    {
-      "key": "js_菜狗",
-      "name": "🐕️┃菜狗┃大厂",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/caigou.js"
-    },
-    {
-      "key": "zy_新浪",
-      "name": "🏄🏻┃新浪┃资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    },
+
+
     {
       "key": "api_xml_搜糊",
       "name": "️🦊┃搜糊┃影视",
@@ -856,36 +656,7 @@
         "动漫"
       ]
     },
-    {
-      "key": "js_Xinsj",
-      "name": "🐠┃视觉┃影院",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/xsj.js"
-    },
-    {
-      "key": "py_cctv",
-      "name": "❤️┃央视┃大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/cctv.py"
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "🎬️┃影视┃工厂",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.ysgc.fun"
-    },
+
     {
       "key": "csp_骚火",
       "name": "🔥┃骚火┃电影",
@@ -905,15 +676,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "csp_Auete",
-      "name": "🐼┃Auet┃影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "csp_Btwtoo",
       "name": "✌┃两个┃鼻涕",
