@@ -348,26 +348,7 @@
       "jar": "./lib/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "./lib/aliyunpan.json"
     },
-    {
-      "key": "js_磁力熊",
-      "name": "🐻‍┃贝尔┃磁力",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/bear.js"
-    },
-    {
-      "key": "4KHDR",
-      "name": "🧲┃世界┃磁力",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/4khdr.js"
-    },
+
     {
       "key": "新6V",
       "name": "🧲┃六V┃磁力",
@@ -381,7 +362,7 @@
 
     {
       "key": "XYQH_电影港",
-      "name": "🛳┃港口┃磁力",
+      "name": "🧲┃港口┃磁力",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
