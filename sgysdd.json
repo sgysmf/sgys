@@ -112,26 +112,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "爱迪",
-      "name": "💡┃爱迪┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
-      "key": "Kuaikan",
-      "name": "👀┃快看┃影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
+
     {
       "key": "辣辣",
       "name": "🌶️┃辣辣┃影视",
@@ -172,6 +154,139 @@
       "filterable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
+
+   {
+      "key": "蚂蚁",
+      "name": "🐜┃蚂蚁┃影视",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://rzys.xyz"
+    },
+    {
+      "key": "Xinsj",
+      "name": "👓┃视觉┃影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/"
+    },
+    {
+      "key": "率率",
+      "name": "💡┃率率┃影视",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "恐怖片",
+        "剧情片",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺"
+      ]
+    },
+    
+    {
+      "key": "zxzj",
+      "name": "📗┃在线┃之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🍄┃比特┃影视",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Lib",
+      "name": "🌟┃利播┃直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pro/"
+    },
+    {
+      "key": "贱贱",
+      "name": "🐭┃贱贱┃影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/jp.js"
+    },
+    {
+      "key": "探探",
+      "name": "🏵┃影探┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
+    
+    {
+      "key": "哈喽",
+      "name": "✌┃哈喽┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    },
+    {
+      "key": "DiDuan",
+      "name": "⏮️┃低端┃直连",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    
+    {
+      "key": "csp_Nmys",
+      "name": "🌾┃农民┃直连",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/nmys.json"
+    },
+
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🐨┃爱奇┃官源",
@@ -268,7 +383,7 @@
     
     {
       "key": "csp_aidi",
-      "name": "🤟┃爱迪┃高清",
+      "name": "💡┃爱迪┃高清",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
