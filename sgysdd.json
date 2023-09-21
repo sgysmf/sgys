@@ -832,7 +832,7 @@
       "key": "88js",
       "name": "⚽┃88┃看球",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
       "ext": "https://download.kstore.space/download/5109/88%E7%9C%8B%E7%90%83.js",
       "style": {
         "type": "rect",
@@ -846,7 +846,7 @@
       "key": "csp_310直播",
       "name": "⚽┃310┃看球",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
       "ext": "https://download.kstore.space/download/5109/310%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
@@ -887,7 +887,7 @@
       "key": "酷奇js",
       "name": "🎤┃酷奇┃MV",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
       "ext": "https://download.kstore.space/download/5109/%E9%85%B7%E5%A5%87MV.js",
       "style": {
         "type": "rect",
@@ -901,7 +901,7 @@
       "key": "虎牙直播js",
       "name": "🐯┃虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
       "ext": "https://download.kstore.space/download/5109/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
@@ -915,7 +915,7 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟┃斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
       "ext": "https://download.kstore.space/download/5109/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
@@ -971,7 +971,7 @@
       "key": "有声小说js",
       "name": "🎧┃有声┃小说",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
+      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
       "ext": "https://download.kstore.space/download/5109/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
       "style": {
         "type": "rect",
@@ -1026,7 +1026,7 @@
       "key": "dr_兔小贝",
       "name": "📚┃儿童┃启蒙",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "https://download.kstore.space/download/5109/drpy1.min.js",
       "ext": "https://download.kstore.space/download/5109/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
