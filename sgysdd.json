@@ -774,7 +774,26 @@
       "filterable": 1
     },
 
-
+    {
+      "key": "csp_dadagui",
+      "name": "🐢┃达龟┃影视",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/达达龟.json"
+    },
+    {
+      "key": "csp_金眼",
+      "name": "🌟┃金眼┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/金眼影视.json"
+    },
     
     {
       "key": "csp_骚火",
@@ -946,28 +965,7 @@
       "ext": "./lib/短视频聚合.json"
     },
 
-
     {
-      "key": "csp_dadagui",
-      "name": "🐢┃达龟┃影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/达达龟.json"
-    },
-    {
-      "key": "csp_金眼",
-      "name": "🌟┃金眼┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/金眼影视.json"
-    },
-        {
       "key": "有声小说js",
       "name": "🎧┃有声┃小说",
       "type": 3,
