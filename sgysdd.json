@@ -36,6 +36,36 @@
       "filterable": 0,
       "ext": "./lib/zb.json"
     },
+     {
+      "key": "YGP",
+      "name": "🚀┃荐影┃速递",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "4KHDR",
+      "name": "🧲┃世界┃磁力",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/4khdr.js"
+    },
+    {
+      "key": "新6V",
+      "name": "🧲┃六V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+
     {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
@@ -773,7 +803,7 @@
     },
     {
       "key": "Biliych",
-      "name": "🅱️哔哔┃歌曲",
+      "name": "🅱️┃哔哔┃歌曲",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -827,6 +857,20 @@
       "filterable": 1,
       "ext": "./lib/高中课堂.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc=:0"
     },
+    {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+
     {
       "key": "push_agent",
       "name": "📽️┃推送┃磁力",
