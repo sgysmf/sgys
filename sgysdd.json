@@ -45,27 +45,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "4KHDR",
-      "name": "🧲┃世界┃磁力",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/4khdr.js"
-    },
-    {
-      "key": "新6V",
-      "name": "🧲┃六V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
-
+    
     {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
@@ -378,6 +358,27 @@
       "filterable": 1,
       "ext": "./lib/bear.js"
     },
+    {
+      "key": "4KHDR",
+      "name": "🧲┃世界┃磁力",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/4khdr.js"
+    },
+    {
+      "key": "新6V",
+      "name": "🧲┃六V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+
     {
       "key": "XYQH_电影港",
       "name": "🛳┃港口┃磁力",
