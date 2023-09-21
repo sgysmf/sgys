@@ -827,7 +827,46 @@
       "filterable": 0,
       "ext": "./lib/去看动漫.json"
     },
- 
+  {
+      "key": "csp_Yj1211",
+      "name": "📽️┃网红┃直播",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+    {
+      "key": "88js",
+      "name": "⚽┃88┃看球",
+      "type": 3,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/88看球.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+{
+      "key": "csp_310直播",
+      "name": "⚽┃310┃看球",
+      "type": 3,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/310直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+
+
     {
       "key": "csp_17看球",
       "name": "⚽┃一起┃直播",
@@ -838,7 +877,21 @@
       "filterable": 0,
       "ext": "./lib/看球.json"
     },
-    
+    {
+      "key": "csp_XPath_企鹅体育",
+      "name": "🐧┃企鹅┃体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/企鹅直播.json"
+    },
+ 
 
     {
       "key": "MV_vod",
@@ -849,7 +902,58 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+{
+      "key": "酷奇js",
+      "name": "🎤┃酷奇┃MV",
+      "type": 3,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+  {
+      "key": "虎牙直播js",
+      "name": "🐯┃虎牙┃直播",
+      "type": 3,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/虎牙直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_XYQBiu_斗鱼",
+      "name": "🐟┃斗鱼┃直播",
+      "type": 3,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "网易CC",
+      "name": "🐠┃网易┃[CC]",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/网易CC.json"
+    },
     {
       "key": "短视频",
       "name": "📱┃网红┃美女",
@@ -861,16 +965,7 @@
       "ext": "./lib/短视频聚合.json"
     },
 
-    {
-      "key": "网易CC",
-      "name": "🐠┃网易┃[CC]",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/网易CC.json"
-    },
+
     {
       "key": "csp_dadagui",
       "name": "🐢┃达龟┃影视",
@@ -891,7 +986,22 @@
       "filterable": 0,
       "ext": "./lib/金眼影视.json"
     },
-       {
+        {
+      "key": "有声小说js",
+      "name": "🎧┃有声┃小说",
+      "type": 3,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+
+    {
       "key": "Bili",
       "name": "🅱️┃哔哔┃合集",
       "type": 3,
@@ -930,6 +1040,20 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./lib/biliych.json"
+    },
+{
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/兔小贝.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
 
 
