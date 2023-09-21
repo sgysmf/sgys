@@ -214,16 +214,7 @@
       "filterable": 1,
       "playerType": 2
     },
-    {
-      "key": "js_ikanbot2",
-      "name": "🤖┃爱看┃机器",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/ikanbot2.js"
-    },
+    
     {
       "key": "新片热播",
       "name": "🔷┃新片┃热播",
@@ -237,26 +228,7 @@
         "动漫"
       ]
     },
-    {
-      "key": "js_baby",
-      "name": "👶┃宝宝┃合集",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/baby.js"
-    },
-    {
-      "key": "js_童趣",
-      "name": "🧗‍┃童趣┃搜视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/tongqu.js"
-    },
+    
     {
       "key": "app_轻简",
       "name": "🚈┃轻简┃影视",
@@ -280,16 +252,7 @@
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
-    {
-      "key": "js_star",
-      "name": "🌟‍┃星辰┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/star.js"
-    },
+    
     {
       "key": "csp_aidi",
       "name": "🤟┃爱迪┃高清",
@@ -307,26 +270,8 @@
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
-    {
-      "key": "js_nangua",
-      "name": "🎃┃南瓜┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/nangua.js"
-    },
-    {
-      "key": "csp_lianyu",
-      "name": "🌧┃恋雨┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
-    },
+    
+    
     {
       "key": "csp_beijihu",
       "name": "🎪┃极狐┃影视",
@@ -409,28 +354,8 @@
       "jar": "./lib/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "./lib/港口.json"
     },
-    {
-      "key": "js_秒看",
-      "name": "⚡️‍┃秒看┃影视",
-      "type": 3,
-      "playerType": 2,
-      "api": "./lib/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/ytcms.js"
-    },
-    {
-      "key": "js_荐片",
-      "name": "⏳┃荐片┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "ext": "./lib/荐片.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
+    
     {
       "key": "js_在线之家",
       "name": "🏞︎‍┃超前┃影视",
