@@ -750,6 +750,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
+      "jar":"./sgys.jar",
       "ext": "./lib/bili.json"
     },
     {
@@ -759,6 +760,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
+      "jar":"./sgys.jar",
       "ext": "./lib/戏曲.json"
     },
     {
@@ -768,6 +770,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
+      "jar":"./sgys.jar",
       "ext": "./lib/ych.json"
     },
     {
@@ -832,6 +835,7 @@
       "name": "📻┃有声┃小说",
       "type": 3,
       "api": "./lib/ddrpy2.m.js",
+      "jar":"./sgys.jar",
       "ext": "./lib/有声小说吧.js"
     },
     {
@@ -885,6 +889,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"./sgys.jar",
       "ext": "./lib/少儿教育.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I=:0"
     },
     {
@@ -895,6 +900,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"./sgys.jar",
       "ext": "./lib/小学课堂.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M=:0"
     },
     {
@@ -905,6 +911,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"./sgys.jar",
       "ext": "./lib/初中课堂.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0=:0"
     },
     {
@@ -915,6 +922,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"./sgys.jar",
       "ext": "./lib/高中课堂.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc=:0"
     },
     {
